@@ -12,7 +12,6 @@ The project's purpose is to show how we can build and automate an interactive da
     4_ Share the report via Outlook mail
     Bonus: using .bat file to automate de production of the report 
 
-The project should be run on Windows OS.
 
 SOURCE KAGGLE
     >> Supermarket sales
